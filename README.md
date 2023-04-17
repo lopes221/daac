@@ -1,4 +1,4 @@
 # daac
-Diagram as a Code
+# Diagram as a Code
 
-<img src="diagram_as_a_code.png"  alt="accessibility text">
+<img src="diagram_as_a_code.png"  alt="daac">
